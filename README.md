@@ -7,8 +7,7 @@
 <a href="https://cfrasan.github.io/GitHubMiniLesson/">Repo: Git Hub mini lesson</a>
 </div>
 
->## Acerca del proyecto
-Repositorios
+>## Repositorio PCDE
 <a class="anchor" id="about the project" href="">PCDE-Activity 9.1</a>
 
 </html>
