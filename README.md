@@ -4,6 +4,6 @@
 
 
 >## Repositorio PCDE
-<a class="anchor" id="about the project" href="https://cfrasan.github.io/PCDE-Activity-9.1/">Activity 9.1 y 9.2 </a>
+<a class="anchor" id="about the project" href="https://cfrasan.github.io/PCDE-Activity-9.1/">Actividades 9.1 y 9.2 </a>
 
 </html>
